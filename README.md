@@ -1,10 +1,10 @@
 # Hi there, I'm Caroline 👋
 
-I'm a young trans woman who likes sandbox video games, novel technologies, learning new things, and of course, coding!
-
-- 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-carolinejoybell-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carolinejoybell@gmail.com "Connect via Email")
 [![Twitter Badge](https://img.shields.io/badge/-@ha1otroop2288-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ha1otroop2288 "Follow on Twitter")
+
+I'm a young trans woman who likes sandbox video games, novel technologies, learning new things, and of course, coding!
+
 - 🌱 I’m currently learning Java ☕
 - 🔭 I’m currently working on [MCOpenVR](https://github.com/halotroop2288/MCOpenVR) and [VRCraft](https://github.com/halotroop2288/VRCraft)
 - 👯 I’m looking to collaborate on any Minecraft mod!

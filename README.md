@@ -5,8 +5,8 @@
 
 I'm a young trans woman who likes sandbox video games, novel technologies, learning new things, and of course, coding!
 
-- 🌱 I’m currently learning Java ☕
-- 🔭 I’m currently working on [MCOpenVR](https://github.com/halotroop2288/MCOpenVR) and [VRCraft](https://github.com/halotroop2288/VRCraft)
+- 🌱 I’m currently learning C# ⚔
+- 🔭 I’m currently working on [Unity Minecraft Clone](https://github.com/halotroop2288/unity-voxel-game)
 - 👯 I’m looking to collaborate on any Minecraft mod!
 - 🤔 I’m looking for help with [BrightCraft](https://github.com/halotroop2288/GlowTest)
 - ⚡ Fun fact: I like pie!

@@ -6,7 +6,7 @@
 I'm a young trans woman who likes sandbox video games, novel technologies, learning new things, and of course, coding!
 
 - 🌱 I’m currently learning C# ⚔
-- 🔭 I’m currently working on nothing at the moment.
+- 🔭 I’m currently working on [Legacy Fabric Toolchain](https://github.com/legacy-fabric)
 - 👯 I’m looking to collaborate on any Minecraft mod!
 - 🤔 I’m looking for help with [BrightCraft](https://github.com/halotroop2288/GlowTest)
 - ⚡ Fun fact: I like pie!

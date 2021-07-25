@@ -1,8 +1,5 @@
 # Hi there, I'm Caroline 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-carolinejoybell-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carolinejoybell@gmail.com "Connect via Email")
-[![Twitter Badge](https://img.shields.io/badge/-@ha1otroop2288-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ha1otroop2288 "Follow on Twitter")
-
 I'm a young trans woman who likes sandbox video games, novel technologies, learning new things, and of course, coding!
 
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/)
@@ -13,7 +10,7 @@ I'm a young trans woman who likes sandbox video games, novel technologies, learn
 - 😄 Pronouns: [She/Her](https://pronoun.is/she/her) or [They/Them](https://pronoun.is/they/.../themselves)
 
 ## 🌠 What I use
-<!--- Modified from KodingDev's profile:         --->
+<!--- Modified from KodingDev's profile: --->
 
 ### Socials
 

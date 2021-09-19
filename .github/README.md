@@ -3,11 +3,11 @@
 I'm a young trans woman who likes sandbox video games, novel technologies, learning new things, and of course, coding!
 
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/)
-- 🔭 I’m currently working on a secret project. 👻
+- 🔭 I’m currently working on a new version of my website. 👻
 - 👯 I’m looking to collaborate on any Minecraft-related Java or Kotlin library.
-- 🤔 I’m looking for help with nothing in particular.
+- 🤔 I’m looking for help with [Better Than Updates](https://github.com/Better-Than-Updates-MC).
 - ⚡ Fun fact: I like pie!
-- 😄 Pronouns: [She/Her](https://pronoun.is/she/her) or [They/Them](https://pronoun.is/they/.../themselves)
+- 😄 Pronouns: [She/Her](https://pronoun.is/she/her)
 
 ## 🌠 What I use
 <!--- Modified from KodingDev's profile: --->

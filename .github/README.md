@@ -85,6 +85,10 @@ I'm a young trans woman who likes sandbox video games, novel technologies, learn
 [![Caroline's Github Stats](https://github-readme-stats.vercel.app/api?username=halotroop2288)](https://github.com/halotroop2288)
 <!--- Removed Language stats becuase they were inaccurate --->
 
+## Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=halotroop2288&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 Are you hiring? I'm looking for work! I hope that my profile here will help you decide.
 
 In any case, have fun browsing my work.

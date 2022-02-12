@@ -9,6 +9,10 @@ I'm a young trans woman who likes sandbox video games, novel technologies, learn
 - ⚡ Fun fact: I like pie!
 - 😄 Pronouns: [She/Her](https://pronoun.is/she/her)
 
+Are you hiring? I'm looking for work! I hope that my profile here will help you decide.
+
+In any case, have fun browsing my work.
+
 ## 🌠 What I use
 <!--- Modified from KodingDev's profile: --->
 
@@ -88,9 +92,5 @@ I'm a young trans woman who likes sandbox video games, novel technologies, learn
 ## Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=halotroop2288&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-Are you hiring? I'm looking for work! I hope that my profile here will help you decide.
-
-In any case, have fun browsing my work.
 
 # Favourite Projects:

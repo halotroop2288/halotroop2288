@@ -40,7 +40,7 @@ In any case, have fun browsing my work.
   <a href="https://discord.com">
     <img height="32" src="/assets/discord.svg">
   </a>
-  <a href="https://halotroop.com/discord/html">
+  <a href="https://halotroop.com/discord.html">
     <b>halotroop#2288</b>
   </a>
 </code>

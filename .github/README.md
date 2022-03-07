@@ -3,7 +3,7 @@
 I'm a young trans woman who likes sandbox video games, novel technologies, learning new things, and of course, coding!
 
 - 🌱 I’m currently learning how to [reverse-engineer](https://en.wikipedia.org/wiki/Reverse_engineering) [PPC](https://en.wikipedia.org/wiki/PowerPC) code
-- 🔭 I’m currently working on contributions to [Xenia](https://github.com/xenia-project/xenia). 👻
+- 🔭 I’m currently working on [my website](https://halotroop.com).
 - 👯 I’m looking to collaborate on any Minecraft-related Java or Kotlin library.
 - 🤔 I’m looking for help with [Xenia](https://github.com/xenia-project/xenia).
 - ⚡ Fun fact: I like pie!

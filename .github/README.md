@@ -53,7 +53,7 @@ In any case, have fun browsing my work.
   </a>
 </code>
 <code>
-  <a href="https://blog.adoptopenjdk.net/">
+  <a href="https://adoptium.net/">
     <img height="32" src="/assets/java.svg">
   </a>
 </code>

@@ -2,10 +2,10 @@
 
 I'm a young trans woman who likes sandbox video games, novel technologies, learning new things, and of course, coding!
 
-- 🌱 I’m currently learning how to [reverse-engineer](https://en.wikipedia.org/wiki/Reverse_engineering) [PPC](https://en.wikipedia.org/wiki/PowerPC) code
-- 🔭 I’m currently working on [my website](https://halotroop.com).
+- 🌱 I’m currently learning more about the retro Minecraft modding scene (MCP, ModLoader, Beta 1.7.3)
+- 🔭 I’m currently working on [Apron](https://github.com/Better-Than-Updates-MC/Apron).
 - 👯 I’m looking to collaborate on any Minecraft-related Java or Kotlin library.
-- 🤔 I’m looking for help with [Xenia](https://github.com/xenia-project/xenia).
+- 🤔 I’m looking for help with [Better Than Updates' projects](https://github.com/Better-Than-Updates-MC).
 - ⚡ Fun fact: I like pie!
 - 😄 Pronouns: [She/Her](https://pronoun.is/she/her)
 

@@ -3,7 +3,7 @@
 I'm a young trans woman who likes sandbox video games, novel technologies, learning new things, and of course, coding!
 
 - 🌱 I’m currently learning [Godot](https://godotengine.org).
-- 🔭 I’m currently working on [Apron](https://github.com/Better-Than-Updates-MC/Apron).
+- 🔭 I’m currently working on a small adventure RPG.
 - 👯 I’m looking to collaborate on documentation.
 - 🤔 I’m looking for help with [Better Than Updates' projects](https://github.com/Better-Than-Updates-MC).
 - ⚡ Fun fact: I like pie!

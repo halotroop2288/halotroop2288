@@ -1,15 +1,15 @@
 # Hi there, I'm Caroline 👋
 
-I'm a young trans woman who likes sandbox video games, novel technologies, learning new things, and of course, coding!
+I'm a young trans woman who likes novel technologies, learning new things, and used to like sandbox video games and coding!
 
-- 🌱 I’m currently learning [Godot](https://godotengine.org).
-- 🔭 I’m currently working on a small adventure RPG.
+- 🌱 I’m currently learning what I really like.
+- 🔭 I’m currently working on rebranding myself.
 - 👯 I’m looking to collaborate on documentation.
-- 🤔 I’m looking for help with [Better Than Updates' projects](https://github.com/Better-Than-Updates-MC).
+- 🤔 I’m looking for help with learning new skills.
 - ⚡ Fun fact: I like pie!
-- 😄 Pronouns: [She/Her](https://pronoun.is/she/her)
+- 😄 Pronouns: [She/Her](https://en.pronouns.page/@halotroop2288)
 
-Are you hiring? I'm looking for work! I hope that my profile here will help you decide.
+Are you hiring? I'm looking for work!
 
 In any case, have fun browsing my work.
 

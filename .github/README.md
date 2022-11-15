@@ -3,7 +3,7 @@
 I'm a young trans woman who likes novel technologies, learning new things, and used to like sandbox video games and coding!
 
 - 🌱 I’m currently learning what I really like.
-- 🔭 I’m currently working on rebranding myself.
+- 🔭 I’m currently working on [my new website](https://github.com/halotroop2288/halotroop.github.io).
 - 👯 I’m looking to collaborate on documentation.
 - 🤔 I’m looking for help with learning new skills.
 - ⚡ Fun fact: I like pie!

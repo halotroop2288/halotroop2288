@@ -28,11 +28,11 @@ In any case, have fun browsing my work.
 </code>
 
 <code>
-  <a href="https://twitter.com">
-    <img height="32" src="/assets/twitter.svg">
+  <a href="https://meow.social">
+    <img height="32" src="/assets/mastodon.svg">
   </a>
-  <a href="https://twitter.com/ha1otroop2288">
-    <b>ha1otroop2288</b>
+  <a href="https://tech.lgbt/web/@halotroop2288">
+    <b>@halotroop2288@tech.lgbt</b>
   </a>
 </code>
 

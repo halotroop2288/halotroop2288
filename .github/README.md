@@ -17,24 +17,18 @@ In any case, have fun browsing my work.
 
 ### Socials
 
-<a href="https://mail.google.com"><img height="32" src="/assets/gmail.svg"></a><br/>
-<code>
-<a href="mailto://carolinejoybell@gmail.com"><b>carolinejoybell</b></a>
-</code>
+<a href="mailto://carolinejoybell@gmail.com">
+    <img height="32" src="/assets/gmail.svg">
+    <b>carolinejoybell</b>
+</a>
 
-<div>
 <a href="https://tech.lgbt"><img height="32" src="/assets/tech.lgbt.png"></a><br/>
-<a href="https://tech.lgbt/web/@halotroop2288"><b>@halotroop2288</b></a>
-</div>
-<div>
 <a href="https://meow.social"><img height="32" src="/assets/mastodon.svg"></a><br/>
-<a href="https://meow.social/web/@halotroop2288"><b>@halotroop2288</b></a>
-</div>
 
 ### Languages:
 
-<a href="https://kotlinlang.org"><img height="32" src="/assets/kotlin.svg"></a>
-<a href="https://adoptium.net/"><img height="32" src="/assets/java.svg"></a>
+<a href="https://kotlinlang.org"><img height="32" src="/assets/kotlin.svg" alt="Kotlin"></a>
+<a href="https://adoptium.net/"><img height="32" src="/assets/java.svg" alt="Java"></a>
 
 ### Version control:
 

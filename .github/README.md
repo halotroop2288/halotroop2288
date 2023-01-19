@@ -21,9 +21,8 @@ In any case, have fun browsing my work.
     <img height="32" src="/assets/gmail.svg">
     <b>carolinejoybell</b>
 </a>
-
-<a href="https://tech.lgbt"><img height="32" src="/assets/tech.lgbt.png"></a><br/>
-<a href="https://meow.social"><img height="32" src="/assets/mastodon.svg"></a><br/>
+<a href="https://tech.lgbt"><img height="32" src="/assets/tech.lgbt.png"><b>@halotroop2288</b></a>
+<a href="https://meow.social"><img height="32" src="/assets/mastodon.svg"><b>@halotroop2288</b></a>
 
 ### Languages:
 

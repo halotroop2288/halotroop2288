@@ -18,26 +18,26 @@ In any case, have fun browsing my work.
 ### Socials
 
 <a href="mailto://carolinejoybell@gmail.com">
-    <img height="32" src="/assets/gmail.svg" alt="Gmail">
+    <img height="32" src="/assets/gmail.svg" title="Gmail">
     <b>carolinejoybell</b>
 </a>
-<a href="https://tech.lgbt"><img height="32" src="/assets/tech.lgbt.png" alt="Tech.LGBT"><b>@halotroop2288</b></a>
-<a href="https://meow.social"><img height="32" src="/assets/mastodon.svg" alt="Meow.Social"><b>@halotroop2288</b></a>
+<a href="https://tech.lgbt"><img height="32" src="/assets/tech.lgbt.png" title="Tech.LGBT"><b>@halotroop2288</b></a>
+<a href="https://meow.social"><img height="32" src="/assets/mastodon.svg" title="Meow.Social"><b>@halotroop2288</b></a>
 
 ### Languages:
 
-<a href="https://kotlinlang.org"><img height="32" src="/assets/kotlin.svg" alt="Kotlin"></a>
-<a href="https://adoptium.net/"><img height="32" src="/assets/java.svg" alt="Java"></a>
+<a href="https://kotlinlang.org"><img height="32" src="/assets/kotlin.svg" title="Kotlin"></a>
+<a href="https://adoptium.net/"><img height="32" src="/assets/java.svg" title="Java"></a>
 
 ### Version control:
 
-<a href="https://github.com"><img height="32" src="/assets/github.svg" alt="GitHub"></a>
-<a href="https://git-scm.com"><img height="32" src="/assets/git.svg" alt="Git"></a>
+<a href="https://github.com"><img height="32" src="/assets/github.svg" title="GitHub"></a>
+<a href="https://git-scm.com"><img height="32" src="/assets/git.svg" title="Git"></a>
 
 ### Editors:
 
-<a href="https://www.jetbrains.com/idea/"><img height="32" src="/assets/intellijidea.svg" alt="IntelliJ Idea Community Edition"></a>
-<a href="https://code.visualstudio.com/"><img height="32" src="/assets/visualstudiocode.svg" alt="Visual Studio Code"></a>
+<a href="https://www.jetbrains.com/idea/"><img height="32" src="/assets/intellijidea.svg" title="IntelliJ Idea Community Edition"></a>
+<a href="https://code.visualstudio.com/"><img height="32" src="/assets/visualstudiocode.svg" title="Visual Studio Code"></a>
 
 ## Stats
 

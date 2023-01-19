@@ -17,13 +17,19 @@ In any case, have fun browsing my work.
 
 ### Socials
 
-<a href="https://mail.google.com"><img height="32" src="/assets/gmail.svg"></a>
+<a href="https://mail.google.com"><img height="32" src="/assets/gmail.svg"></a><br/>
 <code>
 <a href="mailto://carolinejoybell@gmail.com"><b>carolinejoybell</b></a>
 </code>
 
-<a href="https://tech.lgbt/web/@halotroop2288"><img height="32" src="/assets/mastodon.svg"></a>
-<a href="https://meow.social/web/@halotroop2288"><img height="32" src="/assets/mastodon.svg"></a>
+<div>
+<a href="https://tech.lgbt"><img height="32" src="/assets/tech.lgbt.png"></a><br/>
+<a href="https://tech.lgbt/web/@halotroop2288"><b>@halotroop2288</b></a>
+</div>
+<div>
+<a href="https://meow.social"><img height="32" src="/assets/mastodon.svg"></a><br/>
+<a href="https://meow.social/web/@halotroop2288"><b>@halotroop2288</b></a>
+</div>
 
 ### Languages:
 
@@ -32,26 +38,18 @@ In any case, have fun browsing my work.
 
 ### Version control:
 
-<code>
 <a href="https://github.com"><img height="32" src="/assets/github.svg"></a>
-</code>
-<code>
 <a href="https://git-scm.com"><img height="32" src="/assets/git.svg"></a>
-</code>
 
 ### Editors:
 
-<code>
 <a href="https://www.jetbrains.com/idea/"><img height="32" src="/assets/intellijidea.svg"></a>
-</code>
-<code>
 <a href="https://code.visualstudio.com/"><img height="32" src="/assets/visualstudiocode.svg"></a>
-</code>
 
 ## Stats
 
 [![Caroline's Github Stats](https://github-readme-stats.vercel.app/api?username=halotroop2288)](https://github.com/halotroop2288)
-<!--- Removed Language stats becuase they were inaccurate --->
+<!--- Removed Language stats because they were inaccurate --->
 
 ## Trophies
 

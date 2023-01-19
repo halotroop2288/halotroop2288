@@ -15,6 +15,8 @@ In any case, have fun browsing my work.
 
 ## 🌠 What I use
 
+<!--- Thanks for breaking my cool highlights that used code blocks, GitHub! --->
+
 ### Socials
 
 <a href="mailto://carolinejoybell@gmail.com" title="Gmail">

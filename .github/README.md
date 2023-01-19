@@ -14,74 +14,45 @@ Are you hiring? I'm looking for work!
 In any case, have fun browsing my work.
 
 ## 🌠 What I use
-<!--- Modified from KodingDev's profile: --->
 
 ### Socials
 
 <code>
-  <a href="https://mail.google.com">
-    <img height="32" src="/assets/gmail.svg">
-  </a>
-  <a href="mailto://carolinejoybell@gmail.com">
-    <b>carolinejoybell</b>
-  </a>
+<a href="https://mail.google.com"><img height="32" src="/assets/gmail.svg"></a>
+<a href="mailto://carolinejoybell@gmail.com"><b>carolinejoybell</b></a>
 </code>
 
 <code>
-  <a href="https://meow.social">
-    <img height="32" src="/assets/mastodon.svg">
-  </a>
-  <a href="https://tech.lgbt/web/@halotroop2288">
-    <b>@halotroop2288@tech.lgbt</b>
-  </a>
-</code>
-
-<code>
-  <a href="https://discord.com">
-    <img height="32" src="/assets/discord.svg">
-  </a>
-  <a href="https://halotroop.com/discord.html">
-    <b>halotroop#2288</b>
-  </a>
+<a href="https://meow.social">
+<img height="32" src="/assets/mastodon.svg"></a>
+<a href="https://tech.lgbt/web/@halotroop2288"><b>@halotroop2288@tech.lgbt</b></a>
 </code>
 
 ### Languages:
 
 <code>
-  <a href="https://kotlinlang.org">
-    <img height="32" src="/assets/kotlin.svg">
-  </a>
+<a href="https://kotlinlang.org"><img height="32" src="/assets/kotlin.svg"></a>
 </code>
 <code>
-  <a href="https://adoptium.net/">
-    <img height="32" src="/assets/java.svg">
-  </a>
+<a href="https://adoptium.net/"><img height="32" src="/assets/java.svg"></a>
 </code>
 
 ### Version control:
 
 <code>
-  <a href="https://github.com">
-    <img height="32" src="/assets/github.svg">
-  </a>
+<a href="https://github.com"><img height="32" src="/assets/github.svg"></a>
 </code>
 <code>
-  <a href="https://git-scm.com">
-    <img height="32" src="/assets/git.svg">
-  </a>
+<a href="https://git-scm.com"><img height="32" src="/assets/git.svg"></a>
 </code>
 
 ### Editors:
 
 <code>
-  <a href="https://www.jetbrains.com/idea/">
-    <img height="32" src="/assets/intellijidea.svg">
-  </a>
+<a href="https://www.jetbrains.com/idea/"><img height="32" src="/assets/intellijidea.svg"></a>
 </code>
 <code>
-  <a href="https://code.visualstudio.com/">
-    <img height="32" src="/assets/visualstudiocode.svg">
-  </a>
+<a href="https://code.visualstudio.com/"><img height="32" src="/assets/visualstudiocode.svg"></a>
 </code>
 
 ## Stats

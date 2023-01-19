@@ -26,18 +26,18 @@ In any case, have fun browsing my work.
 
 ### Languages:
 
-<a href="https://kotlinlang.org"><img height="32" src="/assets/kotlin.svg" alt="Kotlin"></a>
-<a href="https://adoptium.net/"><img height="32" src="/assets/java.svg" alt="Java"></a>
+<a href="https://kotlinlang.org"><img height="32" src="/assets/kotlin.svg">Kotlin</a>
+<a href="https://adoptium.net/"><img height="32" src="/assets/java.svg">Java</a>
 
 ### Version control:
 
-<a href="https://github.com"><img height="32" src="/assets/github.svg"></a>
-<a href="https://git-scm.com"><img height="32" src="/assets/git.svg"></a>
+<a href="https://github.com"><img height="32" src="/assets/github.svg">GitHub</a>
+<a href="https://git-scm.com"><img height="32" src="/assets/git.svg">Git</a>
 
 ### Editors:
 
-<a href="https://www.jetbrains.com/idea/"><img height="32" src="/assets/intellijidea.svg"></a>
-<a href="https://code.visualstudio.com/"><img height="32" src="/assets/visualstudiocode.svg"></a>
+<a href="https://www.jetbrains.com/idea/"><img height="32" src="/assets/intellijidea.svg">IntelliJ Idea Community Edition</a>
+<a href="https://code.visualstudio.com/"><img height="32" src="/assets/visualstudiocode.svg">Visual Studio Code</a>
 
 ## Stats
 

@@ -23,11 +23,11 @@ In any case, have fun browsing my work.
     <img height="32" src="/assets/gmail.svg">
     <b>carolinejoybell</b>
 </a>
-<a href="https://tech.lgbt" title="Tech.LGBT">
+<a href="https://tech.lgbt/@halotroop2288" title="Tech.LGBT">
     <img height="32" src="/assets/tech.lgbt.png">
     <b>@halotroop2288</b>
 </a>
-<a href="https://meow.social" title="Meow.Social">
+<a href="https://meow.social/@halotroop2288" title="Meow.Social">
     <img height="32" src="/assets/mastodon.svg">
     <b>@halotroop2288</b>
 </a>

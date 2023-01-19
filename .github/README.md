@@ -17,27 +17,33 @@ In any case, have fun browsing my work.
 
 ### Socials
 
-<a href="mailto://carolinejoybell@gmail.com">
-    <img height="32" src="/assets/gmail.svg" title="Gmail">
+<a href="mailto://carolinejoybell@gmail.com" title="Gmail">
+    <img height="32" src="/assets/gmail.svg">
     <b>carolinejoybell</b>
 </a>
-<a href="https://tech.lgbt"><img height="32" src="/assets/tech.lgbt.png" title="Tech.LGBT"><b>@halotroop2288</b></a>
-<a href="https://meow.social"><img height="32" src="/assets/mastodon.svg" title="Meow.Social"><b>@halotroop2288</b></a>
+<a href="https://tech.lgbt" title="Tech.LGBT">
+    <img height="32" src="/assets/tech.lgbt.png">
+    <b>@halotroop2288</b>
+</a>
+<a href="https://meow.social" title="Meow.Social">
+    <img height="32" src="/assets/mastodon.svg">
+    <b>@halotroop2288</b>
+</a>
 
 ### Languages:
 
-<a href="https://kotlinlang.org"><img height="32" src="/assets/kotlin.svg" title="Kotlin"></a>
-<a href="https://adoptium.net/"><img height="32" src="/assets/java.svg" title="Java"></a>
+<a href="https://kotlinlang.org" title="Kotlin"><img height="32" src="/assets/kotlin.svg"></a>
+<a href="https://adoptium.net/" title="Java"><img height="32" src="/assets/java.svg"></a>
 
 ### Version control:
 
-<a href="https://github.com"><img height="32" src="/assets/github.svg" title="GitHub"></a>
-<a href="https://git-scm.com"><img height="32" src="/assets/git.svg" title="Git"></a>
+<a href="https://github.com" title="GitHub"><img height="32" src="/assets/github.svg"></a>
+<a href="https://git-scm.com" title="Git"><img height="32" src="/assets/git.svg"></a>
 
 ### Editors:
 
-<a href="https://www.jetbrains.com/idea/"><img height="32" src="/assets/intellijidea.svg" title="IntelliJ Idea Community Edition"></a>
-<a href="https://code.visualstudio.com/"><img height="32" src="/assets/visualstudiocode.svg" title="Visual Studio Code"></a>
+<a href="https://www.jetbrains.com/idea/" title="IntelliJ Idea Community Edition"><img height="32" src="/assets/intellijidea.svg"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="32" src="/assets/visualstudiocode.svg"></a>
 
 ## Stats
 

@@ -2,16 +2,18 @@
 
 I'm a young trans woman who likes novel technologies, learning new things, and used to like sandbox video games and coding!
 
-- 🌱 I’m currently learning what I really like.
-- 🔭 I’m currently working on [my new website](https://github.com/halotroop2288/halotroop.github.io).
-- 👯 I’m looking to collaborate on documentation.
-- 🤔 I’m looking for help with learning new skills.
+- 🌱 I’m currently learning [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html).
+- 🔭 I’m currently working on [Homebrodot].
+- 👯 I’m looking to collaborate on a Godot game.
+- 🤔 I’m looking for help with porting [Homebrodot] to new platforms.
 - ⚡ Fun fact: I like pie!
 - 😄 Pronouns: [She/Her](https://en.pronouns.page/@halotroop2288)
 
+[Homebrodot]:https://github.com/Homebrodot/godot
+
 Are you hiring? I'm looking for work!
 
-In any case, have fun browsing my work.
+In any case, have fun browsing my projects.
 
 ## 🌠 What I use
 
@@ -34,18 +36,40 @@ In any case, have fun browsing my work.
 
 ### Languages:
 
-<a href="https://kotlinlang.org" title="Kotlin"><img height="32" src="/assets/kotlin.svg"></a>
-<a href="https://adoptium.net/" title="Java"><img height="32" src="/assets/java.svg"></a>
+<a href="https://kotlinlang.org" title="Kotlin">
+    <img height="32" src="/assets/kotlin.svg">
+    <b>Kotlin</b>
+</a>
+<a href="https://adoptium.net/" title="Adoptium">
+    <img height="32" src="/assets/java.svg">
+    <b>Java</b>
+</a>
+<a href="https://www.mono-project.com/" title="Mono">
+    <img height="32" src="/assets/csharp.svg">
+    <b>C#</b>
+</a>
 
 ### Version control:
 
-<a href="https://github.com" title="GitHub"><img height="32" src="/assets/github.svg"></a>
-<a href="https://git-scm.com" title="Git"><img height="32" src="/assets/git.svg"></a>
+<a href="https://github.com" title="GitHub">
+    <img height="32" src="/assets/github.svg">
+    <b>GitHub</b>
+</a>
+<a href="https://git-scm.com" title="Git">
+    <img height="32" src="/assets/git.svg">
+    <b>Git</b>
+</a>
 
 ### Editors:
 
-<a href="https://www.jetbrains.com/idea/" title="IntelliJ Idea Community Edition"><img height="32" src="/assets/intellijidea.svg"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="32" src="/assets/visualstudiocode.svg"></a>
+<a href="https://www.jetbrains.com/idea/" title="IntelliJ Idea Community Edition">
+    <img height="32" src="/assets/intellijidea.svg">
+    <b>IDEA "Community" Edition</b>
+</a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code">
+    <img height="32" src="/assets/visualstudiocode.svg">
+    <b>Visual Studio Code</b>
+</a>
 
 ## Stats
 

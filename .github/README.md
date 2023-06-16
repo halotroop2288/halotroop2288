@@ -2,8 +2,8 @@
 
 I'm a young trans woman who likes novel technologies, learning new things, and used to like sandbox video games and coding!
 
-- 🌱 I’m currently learning [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS).
-- 🔭 I’m currently working on an Xbox 360 dashboard web portal.
+- 🌱 I’m currently learning [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html).
+- 🔭 I’m currently working on a Tetris clone in Godot.
 - 👯 I’m looking to collaborate on a Godot game.
 - 🤔 I’m looking for help with porting [Homebrodot] to new platforms.
 - ⚡ Fun fact: I like pie!

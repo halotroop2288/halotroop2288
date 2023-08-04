@@ -21,8 +21,8 @@ In any case, have fun browsing my projects.
 
 ### Socials
 
-<a href="mailto://carolinejoybell@gmail.com" title="Gmail">
-    <img height="32" src="/assets/gmail.svg">
+<a href="mailto://halotroop2288@proton.me" title="Protonmail">
+    <img height="32" src="/assets/protonmail.svg">
     <b>carolinejoybell</b>
 </a>
 <a href="https://tech.lgbt/@halotroop2288" title="Tech.LGBT">

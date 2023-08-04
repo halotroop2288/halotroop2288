@@ -23,7 +23,7 @@ In any case, have fun browsing my projects.
 
 <a href="mailto://halotroop2288@proton.me" title="Protonmail">
     <img height="32" src="/assets/protonmail.svg">
-    <b>carolinejoybell</b>
+    <b>halotroop2288</b>
 </a>
 <a href="https://tech.lgbt/@halotroop2288" title="Tech.LGBT">
     <img height="32" src="/assets/tech.lgbt.png">

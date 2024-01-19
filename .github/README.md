@@ -51,6 +51,10 @@ In any case, have fun browsing my projects.
 
 ### Version control:
 
+<a href="https://codeberg.org/halotroop2288" title="Codeberg">
+    <img height="32", src="/assets/codeberg.svg">
+    <b>Codeberg</b>
+</a>
 <a href="https://github.com" title="GitHub">
     <img height="32" src="/assets/github.svg">
     <b>GitHub</b>

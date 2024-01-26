@@ -25,8 +25,7 @@ In any case, have fun browsing my projects.
     <img height="32" src="/assets/protonmail.svg">
     <b>halotroop2288</b>
 </a>
-<a href="https://tech.lgbt/@halotroop2288" title="Tech.LGBT">
-    <img height="32" src="/assets/tech.lgbt.png">
+<a href="https://techhub.social/@halotroop2288" title="Techhub.Social">
     <b>@halotroop2288</b>
 </a>
 <a href="https://meow.social/@halotroop2288" title="Meow.Social">

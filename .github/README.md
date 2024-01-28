@@ -26,6 +26,7 @@ In any case, have fun browsing my projects.
     <b>halotroop2288</b>
 </a>
 <a href="https://techhub.social/@halotroop2288" title="Techhub.Social">
+    <img height="32" src="/assets/mastodon.svg">
     <b>@halotroop2288</b>
 </a>
 <a href="https://meow.social/@halotroop2288" title="Meow.Social">

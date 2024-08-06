@@ -49,6 +49,8 @@ In any case, have fun browsing my projects.
     <b>C#</b>
 </a>
 
+[![Caroline's Wakatime Language Stats](https://wakatime.com/share/@halotroop2288/ab39bec4-15f3-4d00-972e-9b8e04f54c1d.svg)](https://wakatime.com/@halotroop2288)
+
 ### Version control:
 
 <a href="https://codeberg.org/halotroop2288" title="Codeberg">
@@ -78,7 +80,6 @@ In any case, have fun browsing my projects.
 ## Stats
 
 [![Caroline's Github Stats](https://github-readme-stats.vercel.app/api?username=halotroop2288)](https://github.com/halotroop2288)
-<!--- Removed Language stats because they were inaccurate --->
 
 ## Trophies
 

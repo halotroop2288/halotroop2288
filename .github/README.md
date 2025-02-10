@@ -3,7 +3,7 @@
 I'm a young trans woman who likes novel technologies, learning new things, and used to like sandbox video games and coding!
 
 - 🌱 I’m currently learning [C++](https://en.wikipedia.org/wiki/C%2B%2B).
-- 🔭 I’m currently working on a [Homebrodot].
+- 🔭 I’m currently working on [Homebrodot].
 - 👯 I’m looking to collaborate on useful documentation.
 - 🤔 I’m looking for help with porting [Homebrodot] to new platforms.
 - ⚡ Fun fact: I like pie!
